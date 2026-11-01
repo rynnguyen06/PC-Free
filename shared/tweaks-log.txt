@@ -1,0 +1,16 @@
+﻿=== apply-tweaks started 10/31/2026 21:24:43 ===
+Running as admin
+Power plan set to High performance
+Visual effects set to Adjust for best performance (VisualFXSetting=3)
+Menu/ window/ taskbar animations off
+Transparency off
+Wallpaper cleared to solid black background color
+Background apps disabled globally
+Game Bar / Game DVR off
+Edge startup boost and background mode off (policy)
+SysMain and Windows Search set to Manual and stopped (NI services untouched)
+Removed startup entry OneDrive from HKCU:\Software\Microsoft\Windows\CurrentVersion\Run
+Removed startup entry MicrosoftEdgeAutoLaunch_922D388EE445D3D334D4BED86743DB5C from HKCU:\Software\Microsoft\Windows\CurrentVersion\Run
+Startup Run-key cleanup done
+C: free after tweaks: 7.3 GB
+=== apply-tweaks finished 10/31/2026 21:24:46 ===
